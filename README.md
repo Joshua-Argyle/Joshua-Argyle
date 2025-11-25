@@ -1,16 +1,20 @@
-## Hi there 👋
+# Josh Argyle
+Hello, GitHub!
 
-<!--
-**Joshua-Argyle/Joshua-Argyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joshua Argyle, a student at Brigham Young University-Idaho interested in computer science. Welcome to my GitHub profile!<!--
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning programming with classes, sql database creation, full stack development (Back and Front end).
+- My goals are to become an efficent programmer that can create a large scale program from start to finish!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+
+- Proficient in: python, SQL, JavaScript, Erlang, and csharp.
+- Skills: Creative Thinker, Communicator, Hard Worker.
+
+## Let's Connect!
+
+- Here is my [LinkedIn] (https://www.linkedin.com/in/josh-argyle-6638451bb/) profile
+- Here is my [Facebook] ((https://www.facebook.com/joshua.argyle.37/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
