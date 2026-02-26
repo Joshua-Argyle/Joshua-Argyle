@@ -5,7 +5,7 @@ I'm Joshua Argyle, a student at Brigham Young University-Idaho interested in com
 
 ## About Me
 - I'm currently learning programming with classes, sql database creation, full stack development (Back and Front end).
-- My goals are to become an efficent programmer that can create a large scale program from start to finish!
+- My goal is to become an efficent programmer that can create a large scale program from start to finish!
 
 ## Technologies and Tools
 
